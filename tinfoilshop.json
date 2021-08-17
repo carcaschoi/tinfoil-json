@@ -5,9 +5,7 @@
 	{"url":"https://titz.cf","title":"tits","action"="add"},
 	{"url":"https://quotanx.in","title":"QuotaShop","action"="add"},
 	{"url":"https://nekoshop.cf","title":"Nekoshop","action"="add"},
-	{"url":"https://stealthshop.cf","title":"Stealth Shop","action"="add"},
-	"sdmc:/","action"="add",
-	"sdmc:/NSP","action"="add",
+	{"url":"https://stealthshop.cf","title":"Stealth Shop","action"="add"}
 ]
     "success": "Auto add shop Service by carcaschoi -\nFree and open source\n\nYou can watch my video on youtube :)\n\nservice source:\nhttps://github.com/carcaschoi/tinfoil-json"
 }

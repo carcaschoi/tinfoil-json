@@ -5,6 +5,9 @@ redirect to another alternative shop server
 Add this link in tinfoil
 
 Protocol: https
+
 Host: rb.gy
+
 Path: goqffb
+
 Titles: carcaschoi

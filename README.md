@@ -1,4 +1,4 @@
-# Auto add switch tinfoil shop server (AIO) by carcaschoi
+# Auto redirect switch tinfoil shop server (AIO server) by carcaschoi
 redirect to another alternative shop server by tinfoilshop.json
 * You don't need to add shop manually if the shop link is updated
 

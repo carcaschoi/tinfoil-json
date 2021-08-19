@@ -3,7 +3,7 @@ redirect to another alternative shop server by tinfoilshop.json
 * You don't need to add shop manually if the shop link is updated
 
 # How to use
-Add this link in tinfoil
+Only Add this link in tinfoil. It will auto run the shop below
 
 ```
 Protocol: https

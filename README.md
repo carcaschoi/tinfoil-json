@@ -13,7 +13,7 @@ Titles: carcaschoi
 ```
 
 ---------------------------------------------
-### alternative shop link backup
+### alternative shop link backup (You don't need to add them if you add Ultimate server upward)
 ```
 # Eevee Save Project (Auto added by tinfoil)
 Protocol: https

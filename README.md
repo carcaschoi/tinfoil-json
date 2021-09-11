@@ -59,7 +59,7 @@ Title: tits
 ```
 ---Backup---
 ```
-# 雷禪商店 Rayzen Shop (cannot use, fuck you)
+# 雷禪商店 Rayzen Shop (cannot use)
 Protocol: https
 Host: tiny.cc
 Path: Rayzen-vip

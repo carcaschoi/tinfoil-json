@@ -7,8 +7,8 @@ Only Add this link in tinfoil. It will auto run the shop below
 
 ```
 Protocol: https
-Host: rb.gy
-Path: goqffb
+Host: raw.githubusercontent.com
+Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
 Titles: carcaschoi
 ```
 

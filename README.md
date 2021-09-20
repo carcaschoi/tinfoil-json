@@ -11,6 +11,7 @@ Host: raw.githubusercontent.com
 Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
 Titles: carcaschoi
 ```
+Video: https://youtu.be/Q3yk6vzCA1E
 
 ---------------------------------------------
 ### alternative shop link backup (You don't need to add them if you add Ultimate server upward)

@@ -1,9 +1,9 @@
 # Auto redirect switch tinfoil shop server (Ultimate server) by carcaschoi
-redirect to another alternative shop server by tinfoilshop.json
+redirect to another alternative shop server by tinfoilshop.json on github
 * You don't need to add shop manually if the shop link is updated
 
 # How to use
-Only Add this link in tinfoil. It will auto run the shop below
+Just Add this Ulimate server in tinfoil. It will auto run all the alternative shops
 
 ```
 Protocol: https
@@ -13,15 +13,16 @@ Titles: carcaschoi
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
+## Credits
+* turtle in the shop
+* stealth shop
+* neko shop
+* ReDUMP Shop
+* pengu shop
+
+Thx for your awesome works😄
 ---------------------------------------------
-### alternative shop link backup (You don't need to add them if you add Ultimate server upward)
-```
-# Eevee Save Project (Auto added by tinfoil)
-Protocol: https
-Host: tiny.cc
-Path: eeveesaveproject
-Title: Eevee Save Project
-```
+### alternative shop link backup (You don't need to add them one by one if you add Ultimate server)
 ```
 # Stealth Shop
 Protocol: https

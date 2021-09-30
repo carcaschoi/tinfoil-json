@@ -81,3 +81,10 @@ Host: tiny.cc
 Path: turtleshop
 Title: tits2
 ```
+```
+# Kronos Zenten Shop (you need to buy license from kronos)
+Protocol: https
+Host: myrincon.duckdns.org
+Path: net/Zenten
+Title: Kronos Zenten Shop
+```

@@ -14,6 +14,7 @@ Titles: carcaschoi
 Video: https://youtu.be/Q3yk6vzCA1E
 
 ## Credits
+* stealth shop
 * turtle in the shop
 * stealth shop
 * neko shop

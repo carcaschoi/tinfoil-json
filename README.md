@@ -3,6 +3,7 @@ redirect to another alternative shop server by tinfoilshop.json on github
 * You don't need to add shop manually if the shop link is updated
 
 # How to use
+You are recommend to delete file [switch/tinfoil/locations.conf] before adding server
 Just Add this Ulimate server in tinfoil. It will auto run all the alternative shops
 
 ```

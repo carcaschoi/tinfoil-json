@@ -20,6 +20,7 @@ Video: https://youtu.be/Q3yk6vzCA1E
 * neko shop
 * ReDUMP Shop
 * pengu shop
+* quotashop
 
 Thx for your awesome works😄
 ---------------------------------------------

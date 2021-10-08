@@ -13,14 +13,13 @@ Titles: carcaschoi
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
-## Credits
-* stealth shop
-* turtle in the shop
-* stealth shop
-* neko shop
-* ReDUMP Shop
-* pengu shop
-* quotashop
+## Credits (Click them to their discord channel)
+* [stealth shop](https://discord.gg/EZMAupDvWE)
+* [turtle in the shop](https://discord.gg/QFXjFa3Jkh)
+* [neko shop](https://discord.gg/pytKu48eMk)
+* ReDUMP Shop (Well...I don't know their discord channel, welcome for PR)
+* [pengu shop](https://discord.gg/VAadvt9KFH)
+* [quota shop](https://discord.gg/kjvT5ah)
 
 Thx for your awesome works😄
 ---------------------------------------------

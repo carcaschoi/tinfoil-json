@@ -13,6 +13,8 @@ Titles: carcaschoi
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
+NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding ultimate server. Or just add them one by one
+
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)
 * [turtle in the shop](https://discord.gg/QFXjFa3Jkh)

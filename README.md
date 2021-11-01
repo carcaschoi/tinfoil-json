@@ -102,8 +102,8 @@ Host: myrincon.duckdns.org
 Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
-# Jackintheshop (jits) (dead)
 ```
+# Jackintheshop (jits) (dead)
 Protocol: https
 Host: jits.cc
 Title: jits

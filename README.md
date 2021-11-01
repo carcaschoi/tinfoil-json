@@ -24,6 +24,7 @@ NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding
 * ReDUMP Shop (Well...I don't know their discord channel, welcome for PR)
 * [pengu shop](https://discord.gg/VAadvt9KFH)
 * [quota shop](https://discord.gg/kjvT5ah)
+* [Voxhost tinfoil server](https://tinfoilhost.voxhost.fr/discord)
 
 Thx for your awesome works😄
 ---------------------------------------------
@@ -64,6 +65,14 @@ Protocol: https
 Host: titz.cf
 Title: tits
 ```
+```
+# Voxhost tinfoil server
+Protocol: https
+Host: tinfoilhost.voxhost.fr 
+Path: index.json
+Title: Voxhost tinfoil server
+```
+
 ---Backup---
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
@@ -93,3 +102,8 @@ Host: myrincon.duckdns.org
 Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
+# Jackintheshop (jits) (dead)
+```
+Protocol: https
+Host: jits.cc
+Title: jits

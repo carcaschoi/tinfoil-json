@@ -1,4 +1,4 @@
 {
-    "directories": ["https://nekoshop.cf", "https://quotanx.in", "https://redump.cf", "https://stealthshop.cf", "https://titz.cf", "https://tinfoilhost.voxhost.fr/index.json"],
+    "directories": ["https://quotanx.in", "https://nekoshop.cf", "https://stealthshop.cf", "https://redump.cf", "https://titz.cf", "https://tinfoilhost.voxhost.fr/index.json"],
     "success": "Tinfoil update 13.0 R8 breaks my service (most of the shops show error message 「bad referrer」. If you have any solutions, welcome for PR！\n\n歡迎使用carcaschoi黑商店萬能服務器\n即使商店連結更新，也不需要再手動輸入了，省時省心 :)\n\n我的Youtube頻道: carcaschoi ，歡迎訂閱！\n\nWelcome to Ultimate Freeshop which is maintained by carcaschoi\n\nIt redirects to all of the alternative shops so you don't need to add shop manually if the shop link is updated\n\nSource:\nhttps://github.com/carcaschoi/tinfoil-json"
 }

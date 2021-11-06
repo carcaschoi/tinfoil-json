@@ -24,7 +24,7 @@ NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding
 * ReDUMP Shop (Well...I don't know their discord channel, welcome for PR)
 * [pengu shop](https://discord.gg/VAadvt9KFH)
 * [quota shop](https://discord.gg/kjvT5ah)
-* [Voxhost tinfoil server](https://tinfoilhost.voxhost.fr/discord)
+* [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
 
 Thx for your awesome works😄
 ---------------------------------------------
@@ -68,8 +68,7 @@ Title: tits
 ```
 # Voxhost tinfoil server
 Protocol: https
-Host: tinfoilhost.voxhost.fr 
-Path: index.json
+Host: tinfoilhost.voxhost.fr
 Title: Voxhost tinfoil server
 ```
 

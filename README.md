@@ -31,7 +31,9 @@ NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding
 * [quota shop](https://discord.gg/kjvT5ah)
 * [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
 
-Thx for your awesome works😄
+App investor
+* [Blawar](https://github.com/blawar)
+* [Tinfoil website (click here)](https://tinfoil.io)
 ---------------------------------------------
 ### alternative shop link backup (You don't need to add them one by one if you add Ultimate server)
 ```

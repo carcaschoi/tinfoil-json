@@ -1,11 +1,16 @@
-# Auto redirect switch tinfoil shop server (Ultimate server) by carcaschoi
-redirect to another alternative shop server by tinfoilshop.json on github
-* You don't need to add shop manually if the shop link is updated
+### Ultimate server by carcaschoi
+一 one of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
+### Introduction & Features
+** JUST IN CASE, IT IS NOT A TINFOIL SHOP
+* It only redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
+* User friendly？？
 
 # How to use
+Firstly, you must jailbreak your own nintendo switch
+
 You are recommend to delete file [switch/tinfoil/locations.conf] before adding server
 
-Just Add this Ulimate server in tinfoil. It will auto run all the alternative shops
+Just Add this Ulimate server in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
 
 ```
 Protocol: https
@@ -72,7 +77,7 @@ Host: tinfoilhost.voxhost.fr
 Title: Voxhost tinfoil server
 ```
 
----Backup---
+---Backup of useless shops---
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
 Protocol: https

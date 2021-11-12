@@ -1,7 +1,8 @@
 ### Ultimate server by carcaschoi
 一 one of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
 ### Introduction & Features
-** JUST IN CASE, IT IS NOT A TINFOIL SHOP
+** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
+* Ultimate service just acts as a middleman！！
 * It only redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
 * User friendly？？
 

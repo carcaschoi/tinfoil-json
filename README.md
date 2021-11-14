@@ -32,7 +32,7 @@ NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding
 * [quota shop](https://discord.gg/kjvT5ah)
 * [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
 
-App investor
+Software developer
 * [Blawar](https://github.com/blawar)
 * [Tinfoil website (click here)](https://tinfoil.io)
 ---------------------------------------------

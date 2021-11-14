@@ -1,5 +1,5 @@
 ### Ultimate server by carcaschoi
-一 one of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
+一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
 ### Introduction & Features
 ** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
 * Ultimate service just acts as a middleman！！

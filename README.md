@@ -7,11 +7,11 @@
 * User friendly？？
 
 # How to use
-Firstly, you must jailbreak your own nintendo switch
+Firstly, you must jailbreak your own nintendo switch with Custom firmware. The CFW I recommended is Atmosphere-NX with sigpatches
 
 You are recommend to delete file [switch/tinfoil/locations.conf] before adding server
 
-Just Add this Ulimate server in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
+Then adding this Ulimate server in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
 
 ```
 Protocol: https
@@ -21,7 +21,7 @@ Titles: carcaschoi
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
-NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding ultimate server. Or just add them one by one
+NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding ultimate server.
 
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)
@@ -34,7 +34,7 @@ NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding
 
 Software developer
 * [Blawar](https://github.com/blawar)
-* [Tinfoil website (click here)](https://tinfoil.io)
+* [Tinfoil official website (click here)](https://tinfoil.io)
 ---------------------------------------------
 ### alternative shop link backup (You don't need to add them one by one if you add Ultimate server)
 ```

@@ -117,3 +117,4 @@ Title: jits
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
 - The author does not take any responsibility for your actions using this software.
+- The author can't be affliated to the content you can retrieve thank's to the Tinfoil shop and can be responsible of any content in it

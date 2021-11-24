@@ -2,8 +2,7 @@
 一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
 ### Introduction & Features
 ** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
-* Ultimate service just acts as a middleman！！
-* It only redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
+* Ultimate server redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
 * User friendly？？
 
 # How to use
@@ -114,3 +113,7 @@ Title: Kronos Zenten Shop
 Protocol: https
 Host: jits.cc
 Title: jits
+```
+## Legal Disclaimer 
+- This software is meant to be strictly reserved for your own **PERSONAL USE**. 
+- The author does not take any responsibility for your actions using this software.

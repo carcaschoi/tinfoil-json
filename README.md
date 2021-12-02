@@ -79,7 +79,7 @@ Host: tinfoilhost.voxhost.fr
 Title: Voxhost tinfoil server
 ```
 
----Backup of useless shops---
+---Backup of unused shops---
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
 Protocol: https

@@ -55,12 +55,6 @@ Host: quotanx.in
 Title: QuotaShop
 ```
 ```
-# ReDUMP SHOP
-Protocol: https
-Host: redump.cf
-Title: ReDUMP Shop
-```
-```
 # Pengu shop
 Protocol: https
 Host: pengu.us
@@ -72,14 +66,20 @@ Protocol: https
 Host: titz.cf
 Title: tits
 ```
+
+---Backup of unused shops---
 ```
-# Voxhost tinfoil server
+# ReDUMP SHOP (can use but it needs to load for a long time)
+Protocol: https
+Host: redump.cf
+Title: ReDUMP Shop
+```
+```
+# Voxhost tinfoil server (cannot use)
 Protocol: https
 Host: tinfoilhost.voxhost.fr
 Title: Voxhost tinfoil server
 ```
-
----Backup of unused shops---
 ```
 # 雷禪商店 Rayzen Shop (cannot use)
 Protocol: https

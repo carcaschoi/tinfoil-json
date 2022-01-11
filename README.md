@@ -20,7 +20,7 @@ Titles: carcaschoi
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
-NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding ultimate server.
+NOTES: You have to be patient after adding ultimate server. It will take around 3-5 minutes to load the server.
 
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)
@@ -116,5 +116,5 @@ Title: jits
 ```
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
-- The author does not take any responsibility for your actions using this software.
-- The author can't be affliated to the content you can retrieve thank's to the Tinfoil shop and can be responsible of any content in it
+- The author does not take any responsibility for your actions using this service.
+- The author can't be affliated to the content that you can retrieve. Thank's to the Tinfoil shop and they can be responsible of any content in it

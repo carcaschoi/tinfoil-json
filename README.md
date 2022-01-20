@@ -104,7 +104,7 @@ Title: tits2
 ```
 # Kronos Zenten Shop (you need to buy license from kronos)
 Protocol: https
-Host: myrincon.duckdns.org
+Host: myrincon.es
 Path: net/Zenten
 Title: Kronos Zenten Shop
 ```

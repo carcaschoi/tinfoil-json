@@ -67,6 +67,14 @@ Host: titz.cf
 Title: tits
 ```
 
+---Backup of shops that have different functions---
+```
+# Ecchi firmware achieves (Download all the firmware from tinfoil)
+Protocol: https
+Host: e.cchi.me
+Path: firmware.tlf
+Title: EFA
+```
 ---Backup of unused shops---
 ```
 # ReDUMP SHOP (can use but it needs to load for a long time)

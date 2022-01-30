@@ -69,11 +69,17 @@ Title: tits
 
 ---Backup of shops that have different functions---
 ```
-# Ecchi firmware achieves (Download all the firmware from tinfoil)
+# Ecchi firmware archives (Download all the firmware from tinfoil)
 Protocol: https
 Host: e.cchi.me
-Path: firmware.tlf
+Path: firmware.tfl
 Title: EFA
+```
+```
+# Ecchi save archive (Download save file and install into your switch)(auto added by tinfoil)
+Protocol: https
+Host: e.cchi.me
+Title: ESA
 ```
 ---Backup of unused shops---
 ```

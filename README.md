@@ -31,6 +31,8 @@ NOTES: You have to be patient after adding ultimate server. It will take around 
 * [quota shop](https://discord.gg/kjvT5ah)
 * [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
 
+* [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
+
 Software developer
 * [Blawar](https://github.com/blawar)
 * [Tinfoil official website (click here)](https://tinfoil.io)
@@ -65,6 +67,14 @@ Title: Pengu shop
 Protocol: https
 Host: titz.cf
 Title: tits
+```
+```
+# A-Network Tinfoil Shop (I will find a way to auto add it)
+Protocol: nut
+Host: a-network.ca
+Port: 9000
+Username: reddit
+Password: reddit
 ```
 
 ---Backup of shops that have different functions---

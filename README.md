@@ -68,15 +68,6 @@ Protocol: https
 Host: titz.cf
 Title: tits
 ```
-```
-# A-Network Tinfoil Shop (I will find a way to auto add it)
-Protocol: nut
-Host: a-network.ca
-Port: 9000
-Username: reddit
-Password: reddit
-```
-
 ---Backup of shops that have different functions---
 ```
 # Ecchi firmware archives (Download all the firmware from tinfoil)
@@ -97,6 +88,15 @@ Title: ESA
 Protocol: https
 Host: redump.cf
 Title: ReDUMP Shop
+```
+```
+# A-Network Tinfoil Shop (Download speed is quite slow)
+Protocol: nut
+Host: a-network.ca
+Port: 9000
+Username: reddit
+Password: reddit
+Title: A-Network Tinfoil Shop
 ```
 ```
 # Voxhost tinfoil server (cannot use)

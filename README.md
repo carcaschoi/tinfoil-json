@@ -139,6 +139,6 @@ Host: jits.cc
 Title: jits
 ```
 ## Legal Disclaimer 
-- This software is meant to be strictly reserved for your own **PERSONAL USE**. 
+- This services MUST ONLY be used to download your LEGALLY BOUGHT GAMES!
 - The author does not take any responsibility for your actions using this service.
 - The author can't be affliated to the content that you can retrieve. Thank's to the Tinfoil shop and they can be responsible of any content in it

@@ -1,7 +1,8 @@
 ### Ultimate server by carcaschoi
 一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
 ### Introduction & Features
-** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
+** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY.
+* Rely on [tinfoil app](https://tinfoil.io)
 * Ultimate server redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
 * User friendly？？
 
@@ -10,7 +11,9 @@ Firstly, you must jailbreak your own nintendo switch with Custom firmware. The C
 
 You are recommend to delete file [switch/tinfoil/locations.conf] before adding server
 
-Then adding this Ulimate server in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
+Make sure you have already setup [dns.mitm and incognito (click here for the guide)](https://rentry.org/ExosphereDNSMITM)
+
+Then install [tinfoil](https://tinfoil.io) and add this Ulimate server in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
 
 ```
 Protocol: https

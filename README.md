@@ -24,6 +24,15 @@ Video: https://youtu.be/Q3yk6vzCA1E
 
 NOTES: You have to be patient after adding Luffshop. It will take around 1-2 minutes to load the shop
 
+## FAQs
+Q: I have already added Luffshop, but why no shop is loaded ?
+
+A: This usually occur when the time of your switch does not the same as the real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch.
+
+Q: I can't open tinfoil... :(
+
+A: Make sure that you install [the latest sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch
+
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)
 * [turtle in the shop](https://discord.gg/QFXjFa3Jkh)

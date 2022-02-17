@@ -1,29 +1,28 @@
-### Ultimate server by carcaschoi
-一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
+### Luffshop by carcaschoi
+![onepiece_luffy](https://user-images.githubusercontent.com/64573431/154498348-f01ae187-f3af-441a-8334-9711695a23fd.png)
 ### Introduction & Features
-** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY.
+** just to clarify, Luffshop IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY.
 * Rely on [tinfoil app](https://tinfoil.io)
-* Ultimate server redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
+* Luffshop redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
 * User friendly？？
 
 # How to use
-Firstly, you must jailbreak your own nintendo switch with Custom firmware. The CFW I recommended is Atmosphere-NX with sigpatches
-
+Firstly, you must jailbreak your own nintendo switch with Custom firmware.
 You are recommend to delete file [switch/tinfoil/locations.conf] before adding server
 
 Make sure you have already setup [dns.mitm and incognito (click here for the guide)](https://rentry.org/ExosphereDNSMITM)
 
-Then install [tinfoil](https://tinfoil.io) and add this Ulimate server in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
+Then install [tinfoil](https://tinfoil.io) and add Luffshop in [tinfoil](https://tinfoil.io). It will auto add and update all of the alternative shops.
 
 ```
 Protocol: https
 Host: raw.githubusercontent.com
 Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
-Titles: carcaschoi
+Titles: Luffshop
 ```
 Video: https://youtu.be/Q3yk6vzCA1E
 
-NOTES: You have to be patient after adding ultimate server. It will take around 3-5 minutes to load the server.
+NOTES: You have to be patient after adding Luffshop. It will take around 1-2 minutes to load the shop
 
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)
@@ -40,7 +39,7 @@ Software developer
 * [Blawar](https://github.com/blawar)
 * [Tinfoil official website (click here)](https://tinfoil.io)
 ---------------------------------------------
-### alternative shop link backup (You don't need to add them one by one if you add Ultimate server)
+### alternative shop link backup (You don't need to add them one by one if you add Luffshop)
 ```
 # Stealth Shop
 Protocol: https

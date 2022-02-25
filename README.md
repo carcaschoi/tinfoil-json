@@ -88,7 +88,7 @@ Path: firmware.tfl
 Title: EFA
 ```
 ```
-# Ecchi save archive (Download save file and install into your switch)(auto added by tinfoil)
+# Ecchi's archive (Download save file and install into your switch)(auto added by tinfoil)
 Protocol: https
 Host: e.cchi.me
 Title: ESA

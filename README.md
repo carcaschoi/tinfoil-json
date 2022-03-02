@@ -26,16 +26,13 @@ NOTES: You have to be patient after adding Luffshop. It will take around 1-2 min
 
 ## FAQs
 Q: I have already added Luffshop, but why no shop is loaded ?
-
-A: This usually occur when the time of your switch does not the same as the real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch.
+> A: This usually occur when the time of your switch does not the same as the real time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch.
 
 Q: I can't open tinfoil... :(
-
-A: Make sure that you install [the latest sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch
+> A: Make sure that you install [the latest sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch
 
 Q: network error 7 occur?
-
-A: Maybe it is a poor network connection. If you are using lan cable, you can try to reinsert it.
+> A: Maybe it is a poor network connection. If you are using lan cable, you can try to reinsert it.
 
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)

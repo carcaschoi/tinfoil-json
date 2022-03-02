@@ -1,7 +1,7 @@
 ### Luffshop by carcaschoi
 ![onepiece_luffy](https://user-images.githubusercontent.com/64573431/154498348-f01ae187-f3af-441a-8334-9711695a23fd.png)
 ### Introduction & Features
-** just to clarify, Luffshop IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY.
+** just to clarify, Luffshop IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY.**
 * Rely on [tinfoil app](https://tinfoil.io)
 * Luffshop redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
 * User friendly？？
@@ -32,6 +32,10 @@ A: This usually occur when the time of your switch does not the same as the real
 Q: I can't open tinfoil... :(
 
 A: Make sure that you install [the latest sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch
+
+Q: network error 7 occur?
+
+A: Maybe it is a poor network connection. If you are using lan cable, you can try to reinsert it.
 
 ## Credits (Click them to their discord channel)
 * [stealth shop](https://discord.gg/EZMAupDvWE)

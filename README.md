@@ -60,12 +60,6 @@ Host: stealthshop.cf
 Title: Stealth Shop
 ```
 ```
-# Nekoshop
-Protocol: https
-Host: nekoshop.cf
-Title: Nekoshop
-```
-```
 # QuotaShop
 Protocol: https
 Host: quotanx.in
@@ -98,6 +92,12 @@ Host: e.cchi.me
 Title: ESA
 ```
 ---Backup of unused shops---
+```
+# Nekoshop (shop merged with tits)
+Protocol: https
+Host: nekoshop.cf
+Title: Nekoshop
+```
 ```
 # ReDUMP SHOP (can use but it needs to load for a long time)
 Protocol: https

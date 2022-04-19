@@ -41,7 +41,7 @@ NOTES: You have to be patient after adding Luffshop. It will take around 1-2 min
 
 ## Setup (Automatic) Recommended
 
-* Download [Luffshop.zip](https://github.com/carcaschoi/tinfoil-json/blob/main/Luffshop.zip)
+* Download [Luffshop.zip](https://github.com/carcaschoi/tinfoil-json/raw/main/luffshop.zip)
 
 * Extract the contents to the root of your SD card. (Overwrite if necessary)
 

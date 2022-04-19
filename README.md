@@ -84,6 +84,8 @@ Q: network error 7 occurs?
 
 * [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
 
+* [teknik (website)](https://teknik.app)
+
 
 Software developer
 
@@ -128,7 +130,7 @@ Title: tits
 ---Backup of shops that have different functions---
 
 ```
-# Ecchi firmware archives (Download all the firmware from tinfoil)
+# Ecchi firmware archives (Download all of switch firmware from tinfoil)
 Protocol: https
 Host: e.cchi.me
 Path: firmware.tfl
@@ -144,7 +146,12 @@ Title: ESA
 
 
 ---Backup of unused/closed/outdated shops---
-
+```
+# teknik (not tested)
+Protocol: https
+Host: switch.teknik.app
+Title: teknik
+```
 ```
 # Nekoshop (shop merged with tits)
 Protocol: https

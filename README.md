@@ -12,7 +12,7 @@
 
 * Relies on [Tinfoil](https://tinfoil.io) 
 
-* You are recommended to the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
+* You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
 
 * To avoid getting banned make sure you have already setup [Exosphere / DNS MITM (click here for the guide)](https://rentry.org/ExosphereDNSMITM).
 
@@ -45,7 +45,7 @@ NOTES: You have to be patient after adding Luffshop. It will take around 1-2 min
 
 * Extract the contents to the root of your SD card. (Overwrite if necessary)
 
-* Load Tinfoil, Luffshop will load automatically.
+* Open Tinfoil, Luffshop will load automatically.
 
 
 ## FAQs

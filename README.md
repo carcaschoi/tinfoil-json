@@ -125,7 +125,12 @@ Protocol: https
 Host: titz.cf
 Title: tits
 ```
-
+```
+# teknik
+Protocol: https
+Host: switch.teknik.app
+Title: teknik
+```
 
 ---Backup of shops that have different functions---
 
@@ -146,12 +151,6 @@ Title: ESA
 
 
 ---Backup of unused/closed/outdated shops---
-```
-# teknik (not tested)
-Protocol: https
-Host: switch.teknik.app
-Title: teknik
-```
 ```
 # Nekoshop (shop merged with tits)
 Protocol: https

@@ -106,13 +106,6 @@ Title: Stealth Shop
 ```
 
 ```
-# QuotaShop
-Protocol: https
-Host: quotanx.in
-Title: QuotaShop
-```
-
-```
 # Pengu shop
 Protocol: https
 Host: pengu.us
@@ -151,6 +144,13 @@ Title: ESA
 
 
 ---Backup of unused/closed/outdated shops---
+```
+# QuotaShop
+Protocol: https
+Host: quotanx.in
+Title: QuotaShop
+```
+
 ```
 # Nekoshop (shop merged with tits)
 Protocol: https

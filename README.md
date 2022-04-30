@@ -106,13 +106,6 @@ Title: Stealth Shop
 ```
 
 ```
-# QuotaShop
-Protocol: https
-Host: quotanx.in
-Title: QuotaShop
-```
-
-```
 # Pengu shop
 Protocol: https
 Host: pengu.us
@@ -152,6 +145,13 @@ Title: ESA
 
 ---Backup of unused/closed/outdated shops---
 ```
+# QuotaShop (Developer stops maintenance. R.I.P.)
+Protocol: https
+Host: quotanx.in
+Title: QuotaShop
+```
+
+```
 # Nekoshop (shop merged with tits)
 Protocol: https
 Host: nekoshop.cf
@@ -176,7 +176,6 @@ Title: A-Network Tinfoil Shop
 ```
 
 ```
-
 # Voxhost tinfoil server (cannot use)
 Protocol: https
 Host: tinfoilhost.voxhost.fr

@@ -145,7 +145,7 @@ Title: ESA
 
 ---Backup of unused/closed/outdated shops---
 ```
-# QuotaShop
+# QuotaShop (Developer stops maintenance. R.I.P.)
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
@@ -176,7 +176,6 @@ Title: A-Network Tinfoil Shop
 ```
 
 ```
-
 # Voxhost tinfoil server (cannot use)
 Protocol: https
 Host: tinfoilhost.voxhost.fr

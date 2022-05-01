@@ -4,7 +4,7 @@
 
 # Introduction & Features
 
-#### *WARNING, Luffshop IS NOT A TINFOIL SHOP it is a FORWADER, It does NOT host games, Luffshop redirects to other available tinfoil shops automatically, so you don't need to add each shop manually and automatically updates links if the shop are added/updated. We are NOT responsible for the GAMES found on TINFOIL by adding this Forwarder.
+#### *WARNING, Luffshop IS NOT A TINFOIL SHOP. It is a FORWADER instead. It does NOT host games. Luffshop redirects to other available tinfoil shops automatically, so you don't need to add each shop manually and automatically updates links if the shop are added/updated. The author of Luffshop is NOT responsible for anythings found on TINFOIL by adding this Forwarder.
 
 # Requirements
 
@@ -16,22 +16,22 @@
 
 * To avoid getting banned make sure you have already setup [Exosphere / DNS MITM (click here for the guide)](https://rentry.org/ExosphereDNSMITM).
 
+*** You have to set up Oauth if you cannot download  「something」  from tinfoil ***
+* Follow the Guide to set up: https://bit.ly/38HEr48
+
 
 ## Setup (Manual)
 
-* Open Tinfoil
-
-* Navigate to File Browser, Press Right then Minus on left Joycon/Controller to add new location using the information below.
-
+1. Open Tinfoil
+2. Navigate to File Browser, Press Right then Minus on left Joycon/Controller to add new location using the information below.
 ```
 Protocol: https
 Host: raw.githubusercontent.com
 Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
 Titles: Luffshop
 ```
-
-* press X to save.
-
+3. press X to save.
+4. (optional & recommended) You have to set up Oauth if you cannot download  「something」  from tinfoil -> Guide: https://bit.ly/38HEr48
 
 Video: https://youtu.be/Q3yk6vzCA1E
 
@@ -41,14 +41,16 @@ NOTES: You have to be patient after adding Luffshop. It will take around 1-2 min
 
 ## Setup (Automatic) Recommended
 
-* Download [Luffshop.zip](https://github.com/carcaschoi/tinfoil-json/raw/main/luffshop.zip)
-
-* Extract the contents to the root of your SD card. (Overwrite if necessary)
-
-* Open Tinfoil, Luffshop will load automatically.
-
+1. Download [Luffshop.zip](https://github.com/carcaschoi/tinfoil-json/raw/main/luffshop.zip)
+2. Extract the contents to the root of your SD card. (Overwrite if necessary)
+3. Open Tinfoil, Luffshop will load automatically.
+4. (optional & recommended) You have to set up Oauth if you cannot download  「something」  from tinfoil -> Guide: https://bit.ly/38HEr48
 
 ## FAQs
+
+Q: I can search XXX in the menu but downloads failed (///commonly asked///)
+
+> A: You have to set up Oauth if you cannot download  XXX  from tinfoil -> Guide: https://bit.ly/38HEr48
 
 Q: I have already added Luffshop, but why no shop is loaded?
 
@@ -57,7 +59,7 @@ Q: I have already added Luffshop, but why no shop is loaded?
 
 Q: I can't open tinfoil... :(
 
-> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch.
+> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch. Then try to reinstall tinfoil.
 
 
 Q: network error 7 occurs?
@@ -222,9 +224,6 @@ Title: jits
 ```
 
 ## Legal Disclaimer 
-
-- This service MUST ONLY be used to download your LEGALLY BOUGHT GAMES!
-
 - The author does not take any responsibility for your actions using this service.
 
 - The author is NOT affiliated with the content that you can retrieve thank's to any Tinfoil shop.

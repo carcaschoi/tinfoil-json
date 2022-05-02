@@ -106,14 +106,6 @@ Protocol: https
 Host: stealthshop.cf
 Title: Stealth Shop
 ```
-
-```
-# Pengu shop
-Protocol: https
-Host: pengu.us
-Title: Pengu shop
-```
-
 ```
 # Turtle Shop (tits)
 Protocol: https
@@ -146,6 +138,12 @@ Title: ESA
 
 
 ---Backup of unused/closed/outdated shops---
+```
+# Pengu shop (long time no update)
+Protocol: https
+Host: pengu.us
+Title: Pengu shop
+```
 ```
 # QuotaShop (Developer stops maintenance. R.I.P.)
 Protocol: https

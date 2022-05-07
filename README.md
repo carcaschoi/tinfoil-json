@@ -101,18 +101,6 @@ Software developer
 ### alternative shop link backup (You don't need to add them one by one if you add Luffshop)
 
 ```
-# Stealth Shop
-Protocol: https
-Host: stealthshop.cf
-Title: Stealth Shop
-```
-```
-# Turtle Shop (tits)
-Protocol: https
-Host: titz.cf
-Title: tits
-```
-```
 # teknik
 Protocol: https
 Host: switch.teknik.app
@@ -138,6 +126,18 @@ Title: ESA
 
 
 ---Backup of unused/closed/outdated shops---
+```
+# Turtle Shop (If you add this, you cannot enjoy the auto update of luffshop)
+Protocol: https
+Host: titz.cf
+Title: tits
+```
+```
+# Stealth Shop (down)
+Protocol: https
+Host: stealthshop.cf
+Title: Stealth Shop
+```
 ```
 # Pengu shop (long time no update)
 Protocol: https

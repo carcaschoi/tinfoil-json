@@ -1,3 +1,3 @@
 {
-"success": "Luffshop notes:\nLuffshop mainly based on (switch.teknik.app) which is unstable now. So, you cannot search anythings when its server is down.\n\nMake sure that you have already setup Oauth before you download XXX from shops.\nSetup guide: https://bit.ly/38HEr48"
+"success": "Luffshop notes:\n10/5/2022 UnderPrivileged Shop works but it only shows old stuff. Btw I have added it.\n\n(switch.teknik.app) is unstable now. So, you cannot search new things when its server is down.\n\nYou may add ReDUMP Shop yourselves but someone reports that it causes a slow boot of tinfoil. Disable it with airplane mode if you find that there is an issue.\n\n** Make sure that you have already setup Oauth before you download XXX from shops.\nSetup guide: https://bit.ly/38HEr48"
 }

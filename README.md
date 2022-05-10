@@ -107,6 +107,15 @@ Host: switch.teknik.app
 Title: teknik
 ```
 
+
+```
+# UnderPrivileged Shop (need oauth set up)
+Protocol: https
+Host: rebrand.ly
+Path: UPStash
+Title: UnderPrivileged Shop
+```
+
 ---Backup of shops that have different functions---
 
 ```
@@ -188,14 +197,6 @@ Protocol: https
 Host: tiny.cc
 Path: Rayzen-vip
 Title: Rayzen Shop
-```
-
-```
-# UnderPrivileged Shop (cannot use)
-Protocol: https
-Host: rebrand.ly
-Path: UPStash
-Title: UnderPrivileged Shop
 ```
 
 ```

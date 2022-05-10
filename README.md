@@ -111,8 +111,8 @@ Title: teknik
 ```
 # UnderPrivileged Shop (need oauth set up)
 Protocol: https
-Host: rebrand.ly
-Path: UPStash
+Host: cdn.discordapp.com
+Path: attachments/531350560549634069/902073525370765352/Under.tfl
 Title: UnderPrivileged Shop
 ```
 

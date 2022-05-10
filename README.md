@@ -101,7 +101,7 @@ Software developer
 ### alternative shop link backup (You don't need to add them one by one if you add Luffshop)
 
 ```
-# teknik
+# teknik (need oauth set up, sometimes down)
 Protocol: https
 Host: switch.teknik.app
 Title: teknik

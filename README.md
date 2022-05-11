@@ -26,8 +26,8 @@
 2. Navigate to File Browser, Press Right then Minus on left Joycon/Controller to add new location using the information below.
 ```
 Protocol: https
-Host: raw.githubusercontent.com
-Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
+Host: shop.zfdang.com
+Path: tinfoilshop.json
 Titles: Luffshop
 ```
 3. press X to save.

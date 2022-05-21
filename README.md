@@ -107,15 +107,6 @@ Host: switch.teknik.app
 Title: teknik
 ```
 
-
-```
-# UnderPrivileged Shop (need oauth set up)
-Protocol: https
-Host: cdn.discordapp.com
-Path: attachments/531350560549634069/902073525370765352/Under.tfl
-Title: UnderPrivileged Shop
-```
-
 ---Backup of shops that have different functions---
 
 ```
@@ -220,6 +211,14 @@ Title: Kronos Zenten Shop
 Protocol: https
 Host: jits.cc
 Title: jits
+```
+
+```
+# UnderPrivileged Shop (outdated)
+Protocol: https
+Host: cdn.discordapp.com
+Path: attachments/531350560549634069/902073525370765352/Under.tfl
+Title: UnderPrivileged Shop
 ```
 
 ## Legal Disclaimer 

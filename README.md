@@ -107,6 +107,13 @@ Host: switch.teknik.app
 Title: teknik
 ```
 
+```
+# Nekoshop
+Protocol: https
+Host: nekoshop.cf
+Title: Nekoshop
+```
+
 ---Backup of shops that have different functions---
 
 ```
@@ -149,13 +156,6 @@ Title: Pengu shop
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
-```
-
-```
-# Nekoshop (shop merged with tits)
-Protocol: https
-Host: nekoshop.cf
-Title: Nekoshop
 ```
 
 ```

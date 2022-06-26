@@ -1,4 +1,4 @@
 {
-    "locations": ["https://switch.teknik.app", "https://raw.githubusercontent.com/carcaschoi/tinfoil-json/master/shopnote.json", "https://nekoshop.cf"],
+    "locations": ["https://teknik.app", "https://raw.githubusercontent.com/carcaschoi/tinfoil-json/master/shopnote.json", "https://nekoshop.cf"],
     "success": "carcaschoi黑商店萬能服務器(Luffshop)\nLuffshop maintained by carcaschoi\n\nIf you see this message, it should work.\n\nFor more information:\nhttps://github.com/carcaschoi/tinfoil-json"
 }

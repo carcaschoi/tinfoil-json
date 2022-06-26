@@ -4,7 +4,7 @@
 
 # Introduction & Features
 
-#### *WARNING, Luffshop IS NOT A TINFOIL SHOP. It is a FORWADER instead. It does NOT host games. Luffshop redirects to other available tinfoil shops automatically, so you don't need to add each shop manually and automatically updates links if the shop are added/updated. The author of Luffshop is NOT responsible for anythings found on TINFOIL by adding this Forwarder.
+#### *WARNING, Luffshop IS NOT A TINFOIL SHOP. It does NOT host games. Luffshop adds other available tinfoil shops automatically, so you don't need to add each shop manually and automatically updates links if the shop are added/updated. The author of Luffshop is NOT responsible for anythings found on TINFOIL by adding this Forwarder.
 
 # Requirements
 
@@ -44,13 +44,8 @@ NOTES: You have to be patient after adding Luffshop. It will take around 1-2 min
 1. Download [Luffshop.zip](https://github.com/carcaschoi/tinfoil-json/raw/main/luffshop.zip)
 2. Extract the contents to the root of your SD card. (Overwrite if necessary)
 3. Open Tinfoil, Luffshop will load automatically.
-4. (optional & recommended) You have to set up Oauth if you cannot download  「something」  from tinfoil -> Guide: https://bit.ly/38HEr48
 
 ## FAQs
-
-Q: I can search XXX in the menu but downloads failed (///commonly asked///)
-
-> A: You have to set up Oauth if you cannot download  XXX  from tinfoil -> Guide: https://bit.ly/38HEr48
 
 Q: I have already added Luffshop, but why no shop is loaded?
 
@@ -59,7 +54,7 @@ Q: I have already added Luffshop, but why no shop is loaded?
 
 Q: I can't open tinfoil... :(
 
-> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch. Then try to reinstall tinfoil.
+> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch and are booting with fusee.bin instead of hekate. Then try to reinstall tinfoil.
 
 
 Q: network error 7 occurs?
@@ -83,6 +78,7 @@ Q: network error 7 occurs?
 
 * [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
 
+* [jits](https://discord.gg/vGqsaD2)
 
 * [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
 
@@ -101,13 +97,29 @@ Software developer
 ### alternative shop link backup (You don't need to add them one by one if you add Luffshop)
 
 ```
-# teknik (need oauth set up, sometimes down)
+# teknik 
 Protocol: https
-Host: switch.teknik.app
+Host: teknik.app
 Title: teknik
 ```
 
+```
+# Nekoshop
+Protocol: https
+Host: nekoshop.cf
+Title: Nekoshop
+```
+
 ---Backup of shops that have different functions---
+
+
+```
+# jits (works with your own gdrive if you follow https://games.jits.cc/account#instructions )
+Protocol: https
+Host: games.jits.site
+Path: shop
+Title: jits
+```
 
 ```
 # Ecchi firmware archives (Download all of switch firmware from tinfoil)
@@ -118,7 +130,7 @@ Title: EFA
 ```
 
 ```
-# Ecchi's archive (Download save file and install into your switch)(auto-added by tinfoil)
+# Ecchi's archive (Download save file and install into your switch)(auto-added by tinfoil, has the latest supported firmware file only)
 Protocol: https
 Host: e.cchi.me
 Title: ESA
@@ -149,13 +161,6 @@ Title: Pengu shop
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
-```
-
-```
-# Nekoshop (shop merged with tits)
-Protocol: https
-Host: nekoshop.cf
-Title: Nekoshop
 ```
 
 ```
@@ -207,14 +212,7 @@ Title: Kronos Zenten Shop
 ```
 
 ```
-# Jackintheshop (jits) (dead)
-Protocol: https
-Host: jits.cc
-Title: jits
-```
-
-```
-# UnderPrivileged Shop (outdated)
+# UnderPrivileged Shop (outdated, all downloads are 404)
 Protocol: https
 Host: cdn.discordapp.com
 Path: attachments/531350560549634069/902073525370765352/Under.tfl
@@ -224,4 +222,4 @@ Title: UnderPrivileged Shop
 ## Legal Disclaimer 
 - The author does not take any responsibility for your actions using this service.
 
-- The author is NOT affiliated with the content that you can retrieve thank's to any Tinfoil shop.
+- The author is NOT affiliated with the content that you can retrieve thanks to any Tinfoil shop.

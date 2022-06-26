@@ -99,7 +99,7 @@ Software developer
 ```
 # teknik 
 Protocol: https
-Host: switch.teknik.app
+Host: teknik.app
 Title: teknik
 ```
 

@@ -113,6 +113,13 @@ Host: nekoshop.cf
 Title: Nekoshop
 ```
 
+```
+# Turtle Shop 
+Protocol: https
+Host: titz.cf
+Title: titz
+```
+
 ---Backup of shops that have different functions---
 
 
@@ -141,12 +148,6 @@ Title: ESA
 
 
 ---Backup of unused/closed/outdated shops---
-```
-# Turtle Shop (If you add this, you cannot enjoy the auto update of luffshop)
-Protocol: https
-Host: titz.cf
-Title: tits
-```
 ```
 # Stealth Shop (down)
 Protocol: https

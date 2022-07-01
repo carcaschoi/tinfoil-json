@@ -100,7 +100,10 @@ Software developer
 # teknik 
 Protocol: https
 Host: teknik.app
+Username: shop
+Password: [key_goes_here]
 Title: teknik
+* get access key from their discord (https://discord.com/invite/teknik)
 ```
 
 ```

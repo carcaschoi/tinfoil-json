@@ -155,7 +155,7 @@ Host: stealthshop.cf
 Title: Stealth Shop
 ```
 ```
-# Pengu shop (long time no update)
+# Pengu shop (outdated)
 Protocol: https
 Host: pengu.us
 Title: Pengu shop
@@ -200,7 +200,7 @@ Title: Rayzen Shop
 ```
 
 ```
-# Turtle Shop (tits) 2 (useless)
+# Turtle Shop (tits) 2 (outdated)
 Protocol: https
 Host: tiny.cc
 Path: turtleshop

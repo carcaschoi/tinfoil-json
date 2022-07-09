@@ -6,6 +6,8 @@
 
 #### *WARNING, Luffshop IS NOT A TINFOIL SHOP. It does NOT host games. Luffshop adds other available tinfoil shops automatically, so you don't need to add each shop manually and automatically updates links if the shop are added/updated. The author of Luffshop is NOT responsible for anythings found on TINFOIL by adding this Forwarder.
 
+#### Also, Devshop (a mirror of Luffshop) and other mirror shops are not made and supported by the author of Luffshop. Some of them are lack of maintainence so users should be careful if you want to use them.
+
 # Requirements
 
 * Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended)

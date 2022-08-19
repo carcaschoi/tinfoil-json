@@ -108,20 +108,6 @@ Title: teknik
 * get access key from their discord (https://discord.com/invite/teknik)
 ```
 
-```
-# Nekoshop
-Protocol: https
-Host: nekoshop.cf
-Title: Nekoshop
-```
-
-```
-# Turtle Shop 
-Protocol: https
-Host: titz.cf
-Title: titz
-```
-
 ---Backup of shops that have different functions---
 
 
@@ -224,6 +210,20 @@ Host: cdn.discordapp.com
 Path: attachments/531350560549634069/902073525370765352/Under.tfl
 Title: UnderPrivileged Shop
 ```
+```
+# Nekoshop
+Protocol: https
+Host: nekoshop.cf
+Title: Nekoshop
+```
+
+```
+# Turtle Shop 
+Protocol: https
+Host: titz.cf
+Title: titz
+```
+
 
 ## Legal Disclaimer 
 - The author does not take any responsibility for your actions using this service.

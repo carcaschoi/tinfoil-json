@@ -1,13 +1,4 @@
-# Luffshop by carcaschoi
-
-![onepiece_luffy](https://user-images.githubusercontent.com/64573431/154498348-f01ae187-f3af-441a-8334-9711695a23fd.png)
-
-# Introduction & Features
-
-#### *WARNING, Luffshop IS NOT A TINFOIL SHOP. It does NOT host games. Luffshop adds other available tinfoil shops automatically, so you don't need to add each shop manually and automatically updates links if the shop are added/updated. The author of Luffshop is NOT responsible for anythings found on TINFOIL by adding this Forwarder.
-
-#### Also, Devshop (a mirror of Luffshop) and other mirror shops are not made and supported by the author of Luffshop. Some of them are lack of maintainence so users should be careful if you want to use them.
-
+# This is just a archive page that stores the information of various tinfoil shop link. Luffshop has been removed since it does not work anymore. I think you should delete it  ASAP
 # Requirements
 
 * Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended)
@@ -21,35 +12,7 @@
 *** You have to set up Oauth if you cannot download  「something」  from tinfoil ***
 * Follow the Guide to set up: https://bit.ly/38HEr48
 
-
-## Setup (Manual)
-
-1. Open Tinfoil
-2. Navigate to File Browser, Press Right then Minus on left Joycon/Controller to add new location using the information below.
-```
-Protocol: https
-Host: raw.githubusercontent.com
-Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
-Titles: Luffshop
-```
-3. press X to save.
-4. (optional & recommended) You have to set up Oauth if you cannot download  「something」  from tinfoil -> Guide: https://bit.ly/38HEr48
-
-Video: https://youtu.be/Q3yk6vzCA1E
-
-
-NOTES: You have to be patient after adding Luffshop. It will take around 1-2 minutes to load the shop
-
-
-## Setup (Automatic) Recommended
-
-1. Download [Luffshop.zip](https://github.com/carcaschoi/tinfoil-json/raw/main/luffshop.zip)
-2. Extract the contents to the root of your SD card. (Overwrite if necessary)
-3. Open Tinfoil, Luffshop will load automatically.
-
-## FAQs
-
-Q: I have already added Luffshop, but why no shop is loaded?
+Q: Why no shop is loaded?
 
 > A: This usually occurs when the time of your switch does not the same as the real-time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch. Or The shops you are trying to access could be down currently.
 
@@ -96,7 +59,7 @@ Software developer
 ---------------------------------------------
 
 
-### alternative shop link backup (You don't need to add them one by one if you add Luffshop)
+### shop link
 
 ```
 # teknik 

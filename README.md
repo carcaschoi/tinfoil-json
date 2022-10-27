@@ -1,4 +1,4 @@
-# This is just a archive page that stores the information of various tinfoil shop link. Luffshop has been removed since it does not work anymore. I think you should delete it  ASAP
+# This is just a archive page that stores the information of various tinfoil shop link. Luffshop has been removed since it does not work anymore. I suggest you to delete it  ASAP
 # Requirements
 
 * Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended)
@@ -49,6 +49,8 @@ Q: network error 7 occurs?
 
 * [teknik (website)](https://teknik.app)
 
+* [pixelshop (website)](https://pixelshop.tk/)
+
 
 Software developer
 
@@ -63,12 +65,12 @@ Software developer
 
 ```
 # teknik 
-Protocol: https
-Host: teknik.app
-Username: shop
-Password: [key_goes_here]
-Title: teknik
 * get access key from their discord (https://discord.com/invite/teknik)
+```
+```
+# pixelshop
+* get access key from their discord (https://discord.gg/tqnCB2XbMc)
+
 ```
 
 ---Backup of shops that have different functions---

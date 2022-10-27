@@ -1,65 +1,4 @@
 # This is just a archive page that stores the information of various tinfoil shop link. Luffshop has been removed since it does not work anymore. I suggest you to delete it  ASAP
-# Requirements
-
-* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended)
-
-* Relies on [Tinfoil](https://tinfoil.io) 
-
-* You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
-
-* To avoid getting banned make sure you have already setup [Exosphere / DNS MITM (click here for the guide)](https://rentry.org/ExosphereDNSMITM).
-
-*** You have to set up Oauth if you cannot download  「something」  from tinfoil ***
-* Follow the Guide to set up: https://bit.ly/38HEr48
-
-Q: Why no shop is loaded?
-
-> A: This usually occurs when the time of your switch does not the same as the real-time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch. Or The shops you are trying to access could be down currently.
-
-
-Q: I can't open tinfoil... :(
-
-> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch and are booting with fusee.bin instead of hekate. Then try to reinstall tinfoil.
-
-
-Q: network error 7 occurs?
-
-> A: Maybe it is a poor network connection. If you are using a LAN cable, you can try to reinsert it.
-
-
-## Credits (Click them to their discord channel)
-
-* [stealth shop](https://discord.gg/EZMAupDvWE)
-
-* [turtle in the shop](https://discord.gg/QFXjFa3Jkh)
-
-* [neko shop](https://discord.gg/pytKu48eMk)
-
-* ReDUMP Shop (Well...I don't know their discord channel, welcome for PR)
-
-* [pengu shop](https://discord.gg/VAadvt9KFH)
-
-* [quota shop](https://discord.gg/kjvT5ah)
-
-* [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
-
-* [jits](https://discord.gg/vGqsaD2)
-
-* [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
-
-* [teknik (website)](https://teknik.app)
-
-* [pixelshop (website)](https://pixelshop.tk/)
-
-
-Software developer
-
-* [Blawar](https://github.com/blawar)
-
-* [Tinfoil official website (click here)](https://tinfoil.io)
-
----------------------------------------------
-
 
 ### shop link
 
@@ -188,6 +127,72 @@ Protocol: https
 Host: titz.cf
 Title: titz
 ```
+
+---------------------------------------------
+
+# Requirements
+
+* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended)
+
+* Relies on [Tinfoil](https://tinfoil.io) 
+
+* You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
+
+* To avoid getting banned make sure you have already setup [Exosphere / DNS MITM (click here for the guide)](https://rentry.org/ExosphereDNSMITM).
+
+*** You have to set up Oauth if you cannot download  「something」  from tinfoil ***
+* Follow the Guide to set up: https://bit.ly/38HEr48
+
+Q: Why no shop is loaded?
+
+> A: This usually occurs when the time of your switch does not the same as the real-time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch. Or The shops you are trying to access could be down currently.
+
+
+Q: I can't open tinfoil... :(
+
+> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch and are booting with fusee.bin instead of hekate. Then try to reinstall tinfoil.
+
+
+Q: network error 7 occurs?
+
+> A: Maybe it is a poor network connection. If you are using a LAN cable, you can try to reinsert it.
+
+
+## Credits (Click them to their discord channel)
+
+* [stealth shop](https://discord.gg/EZMAupDvWE)
+
+* [turtle in the shop](https://discord.gg/QFXjFa3Jkh)
+
+* [neko shop](https://discord.gg/pytKu48eMk)
+
+* ReDUMP Shop (Well...I don't know their discord channel, welcome for PR)
+
+* [pengu shop](https://discord.gg/VAadvt9KFH)
+
+* [quota shop](https://discord.gg/kjvT5ah)
+
+* [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
+
+* [jits](https://discord.gg/vGqsaD2)
+
+* [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
+
+* [teknik (website)](https://teknik.app)
+
+* [pixelshop (website)](https://pixelshop.tk/)
+
+
+Software developer
+
+* [Blawar](https://github.com/blawar)
+
+* [Tinfoil official website (click here)](https://tinfoil.io)
+
+---------------------------------------------
+
+
+
 
 
 ## Legal Disclaimer 

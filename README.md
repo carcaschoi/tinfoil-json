@@ -3,17 +3,12 @@
 ### shop link
 
 ```
-# teknik 
-* get access key from their discord (https://discord.com/invite/teknik)
-```
-```
 # pixelshop
 * get access key from their discord (https://discord.gg/tqnCB2XbMc)
 
 ```
 
 ---Backup of shops that have different functions---
-
 
 ```
 # jits (works with your own gdrive if you follow https://games.jits.cc/account#instructions )
@@ -45,6 +40,10 @@ Title: ESA
 Protocol: https
 Host: stealthshop.cf
 Title: Stealth Shop
+```
+```
+# teknik 
+* get access key from their discord (https://discord.com/invite/teknik)
 ```
 ```
 # Pengu shop (outdated)

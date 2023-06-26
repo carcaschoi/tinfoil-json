@@ -1,10 +1,10 @@
-# This is just a archive page that stores the information of various tinfoil shop link. Luffshop has been removed since it does not work anymore. I suggest you to delete it  ASAP
+# Hello! Here is a github page storing the information of various tinfoil shop links. Luffshop has been removed since it doesn't work anymore. You may choose to delete it
 
 ### shop link
 
 ```
 # pixelshop
-* get access key from their discord (https://discord.gg/tqnCB2XbMc)
+* get access key from their discord (https://pixelshop.lol)
 
 ```
 
@@ -179,7 +179,7 @@ Q: network error 7 occurs?
 
 * [teknik (website)](https://teknik.app)
 
-* [pixelshop (website)](https://pixelshop.tk/)
+* [pixelshop (website)](https://pixelshop.lol/)
 
 
 Software developer

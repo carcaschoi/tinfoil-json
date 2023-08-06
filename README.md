@@ -3,9 +3,24 @@
 ### shop link
 
 ```
-# pixelshop
+# pixelshop (not accept new members now)
 * get access key from their discord (https://pixelshop.lol)
+```
 
+```
+# retrorom shop
+* join their discord (https://retrorom.shop)
+There are some retro things~
+```
+
+```
+# A-Network Tinfoil Shop (It may work)
+Protocol: nut
+Host: a-network.ca
+Port: 9000
+Username: reddit
+Password: reddit
+Title: A-Network Tinfoil Shop
 ```
 
 ---Backup of shops that have different functions---
@@ -32,7 +47,19 @@ Protocol: https
 Host: e.cchi.me
 Title: ESA
 ```
+---shops requiring license key---
+```
+# teknik shop
+* get access key from their discord (https://discord.com/invite/teknik)
+```
 
+```
+# Kronos Zenten Shop (you need to buy license from kronos)
+Protocol: https
+Host: myrincon.es
+Path: net/Zenten
+Title: Kronos Zenten Shop
+```
 
 ---Backup of unused/closed/outdated shops---
 ```
@@ -41,10 +68,7 @@ Protocol: https
 Host: stealthshop.cf
 Title: Stealth Shop
 ```
-```
-# teknik 
-* get access key from their discord (https://discord.com/invite/teknik)
-```
+
 ```
 # Pengu shop (outdated)
 Protocol: https
@@ -63,16 +87,6 @@ Title: QuotaShop
 Protocol: https
 Host: redump.cf
 Title: ReDUMP Shop
-```
-
-```
-# A-Network Tinfoil Shop (Download speed is quite slow)
-Protocol: nut
-Host: a-network.ca
-Port: 9000
-Username: reddit
-Password: reddit
-Title: A-Network Tinfoil Shop
 ```
 
 ```
@@ -96,14 +110,6 @@ Protocol: https
 Host: tiny.cc
 Path: turtleshop
 Title: tits2
-```
-
-```
-# Kronos Zenten Shop (you need to buy license from kronos)
-Protocol: https
-Host: myrincon.es
-Path: net/Zenten
-Title: Kronos Zenten Shop
 ```
 
 ```

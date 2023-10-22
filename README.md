@@ -23,6 +23,13 @@ Password: reddit
 Title: A-Network Tinfoil Shop
 ```
 
+```
+# HBGShop (Set to release December 2023)
+Protocol: https
+Host: wpapp.cc
+Title: HBGShop
+```
+
 ---Backup of shops that have different functions---
 
 ```

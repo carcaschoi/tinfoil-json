@@ -42,6 +42,11 @@ Title: ESA
 ## Shops requiring a Licence Key
 
 ```
+# POCODA Shop
+* Get access key from their Discord (https://discord.gg/kkKmDNyZgc)
+```
+
+```
 # Teknik Shop
 * Get access key from their Discord (https://discord.com/invite/teknik)
 ```

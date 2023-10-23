@@ -4,25 +4,15 @@
 ___
 
 ## Shop Links
-
 ```
-# PixelShop (doesn't accept new members as of now)
-* Get access key from their Discord (https://pixelshop.lol)
+# HBGShop (Set to release December 2023) (thanks lurq)
+Protocol: https
+Host: wpapp.cc
+Title: HBGShop
 ```
-
 ```
-# RetroRom Shop
-* Join their Discord (https://retrorom.shop)
-```
-
-```
-# A-Network Tinfoil Shop (it may work)
-Protocol: nut
-Host: a-network.ca
-Port: 9000
-Username: reddit
-Password: reddit
-Title: A-Network Tinfoil Shop
+# Bikeborb's Shop
+discord: unknown
 ```
 
 ## Backup of Shops with various Functions
@@ -49,7 +39,7 @@ Protocol: https
 Host: e.cchi.me
 Title: ESA
 ```
-## Shops requiring a Liscence Key
+## Shops requiring a Licence Key
 
 ```
 # Teknik Shop
@@ -135,6 +125,25 @@ Title: Nekoshop
 Protocol: https
 Host: titz.cf
 Title: TITS
+```
+```
+# PixelShop (doesn't accept new members as of now) (down)
+* Get access key from their Discord (https://pixelshop.lol)
+```
+
+```
+# RetroRom Shop
+* Join their Discord (https://retrorom.shop)
+```
+
+```
+# A-Network Tinfoil Shop (down)
+Protocol: nut
+Host: a-network.ca
+Port: 9000
+Username: reddit
+Password: reddit
+Title: A-Network Tinfoil Shop
 ```
 
 ---

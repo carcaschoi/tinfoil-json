@@ -1,20 +1,22 @@
-# Hello! Here is a github page storing the information of various tinfoil shop links. Luffshop has been removed since it doesn't work anymore. You may choose to delete it
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=tinfoil-json)
 
-### shop link
+### Hello! This is a GitHub page storing the information of various Tinfoil shop links.
+___
 
-```
-# pixelshop (not accept new members now)
-* get access key from their discord (https://pixelshop.lol)
-```
+## Shop Links
 
 ```
-# retrorom shop
-* join their discord (https://retrorom.shop)
-There are some retro things~
+# PixelShop (doesn't accept new members as of now)
+* Get access key from their Discord (https://pixelshop.lol)
 ```
 
 ```
-# A-Network Tinfoil Shop (It may work)
+# RetroRom Shop
+* Join their Discord (https://retrorom.shop)
+```
+
+```
+# A-Network Tinfoil Shop (it may work)
 Protocol: nut
 Host: a-network.ca
 Port: 9000
@@ -23,18 +25,18 @@ Password: reddit
 Title: A-Network Tinfoil Shop
 ```
 
----Backup of shops that have different functions---
+## Backup of Shops with various Functions
 
 ```
-# jits (works with your own gdrive if you follow https://games.jits.cc/account#instructions )
+# JITS (works with your own GDrive if you follow https://games.jits.cc/account#instructions)
 Protocol: https
 Host: games.jits.site
 Path: shop
-Title: jits
+Title: JITS
 ```
 
 ```
-# Ecchi firmware archives (Download all of switch firmware from tinfoil)
+# Ecchi's Firmware Archives (download all of switch firmware from Tinfoil)
 Protocol: https
 Host: e.cchi.me
 Path: firmware.tfl
@@ -42,26 +44,28 @@ Title: EFA
 ```
 
 ```
-# Ecchi's archive (Download save file and install into your switch)(auto-added by tinfoil, has the latest supported firmware file only)
+# Ecchi's Archives (download save files and install them to your Switch [auto added by Tinfoil] )
 Protocol: https
 Host: e.cchi.me
 Title: ESA
 ```
----shops requiring license key---
+## Shops requiring a Liscence Key
+
 ```
-# teknik shop
-* get access key from their discord (https://discord.com/invite/teknik)
+# Teknik Shop
+* Get access key from their Discord (https://discord.com/invite/teknik)
 ```
 
 ```
-# Kronos Zenten Shop (you need to buy license from kronos)
+# Kronos Zenten Shop (buy a monthly liscence from Kronos at https://discord.com/invite/kscctYj)
 Protocol: https
 Host: myrincon.es
 Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
----Backup of unused/closed/outdated shops---
+## Backup of N/A Shops
+
 ```
 # Stealth Shop (down)
 Protocol: https
@@ -70,30 +74,30 @@ Title: Stealth Shop
 ```
 
 ```
-# Pengu shop (outdated)
+# Pengu Shop (outdated)
 Protocol: https
 Host: pengu.us
-Title: Pengu shop
+Title: Pengu Shop
 ```
 ```
-# QuotaShop (Developer stops maintenance. R.I.P.)
+# QuotaShop (developer stopped maintenance [R.I.P] )
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
 ```
 
 ```
-# ReDUMP SHOP (can use but it needs to load for a long time)
+# ReDUMP Shop (can use but it needs to load for a long time)
 Protocol: https
 Host: redump.cf
 Title: ReDUMP Shop
 ```
 
 ```
-# Voxhost tinfoil server (cannot use)
+# Voxhost Tinfoil Server (cannot use)
 Protocol: https
 Host: tinfoilhost.voxhost.fr
-Title: Voxhost tinfoil server
+Title: Voxhost Tinfoil Server
 ```
 
 ```
@@ -105,11 +109,11 @@ Title: Rayzen Shop
 ```
 
 ```
-# Turtle Shop (tits) 2 (outdated)
+# TITS 2 (outdated)
 Protocol: https
 Host: tiny.cc
 Path: turtleshop
-Title: tits2
+Title: TITS 2
 ```
 
 ```
@@ -127,74 +131,77 @@ Title: Nekoshop
 ```
 
 ```
-# Turtle Shop 
+# TITS
 Protocol: https
 Host: titz.cf
-Title: titz
+Title: TITS
 ```
 
----------------------------------------------
+---
 
 # Requirements
 
-* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended)
+* Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended).
 
-* Relies on [Tinfoil](https://tinfoil.io) 
+* Relies on [Tinfoil](https://tinfoil.io).
 
 * You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
 
-* To avoid getting banned make sure you have already setup [Exosphere / DNS MITM (click here for the guide)](https://rentry.org/ExosphereDNSMITM).
+* To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
-*** You have to set up Oauth if you cannot download  「something」  from tinfoil ***
-* Follow the Guide to set up: https://bit.ly/38HEr48
+#### You have to set up OAuth if you cannot download  「something」  from Tinfoil.
+* Follow the Guide to set up: https://bit.ly/38HEr48.
 
-Q: Why no shop is loaded?
+## FAQ
 
-> A: This usually occurs when the time of your switch does not the same as the real-time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your switch. Or The shops you are trying to access could be down currently.
+Q: Why aren't the shops loaded?
+
+> A: This usually occurs when the time of your Switch does not the same as the real-time. Please use [switch-time](https://github.com/3096/switch-time) to adjust the time of your Switch. Another circumstance might be that the shops you are trying to access could be down currently.
 
 
 Q: I can't open tinfoil... :(
 
-> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch and are booting with fusee.bin instead of hekate. Then try to reinstall tinfoil.
+> A: Make sure that you install the latest [Sigpatches](https://github.com/ITotalJustice/patches/releases/latest) in your switch and are booting with fusee.bin instead of Hekate. Then try to reinstall tinfoil.
 
 
-Q: network error 7 occurs?
+Q: Network Error 7 occurs when I try to download.
 
-> A: Maybe it is a poor network connection. If you are using a LAN cable, you can try to reinsert it.
+> A: It is most commonly a poor network connection. If you are using a LAN cable, try reinserting it.
 
 
-## Credits (Click them to their discord channel)
+## Credits
 
-* [stealth shop](https://discord.gg/EZMAupDvWE)
+* [Stealth Shop](https://discord.gg/EZMAupDvWE)
 
-* [turtle in the shop](https://discord.gg/QFXjFa3Jkh)
+* [TITS](https://discord.gg/QFXjFa3Jkh)
 
-* [neko shop](https://discord.gg/pytKu48eMk)
+* [Nekoshop](https://discord.gg/pytKu48eMk)
 
-* ReDUMP Shop (Well...I don't know their discord channel, welcome for PR)
+* ReDUMP Shop (well... i don't know their website ot discord, welcome for pr)
 
-* [pengu shop](https://discord.gg/VAadvt9KFH)
+* [Pengu Shop](https://discord.gg/VAadvt9KFH)
 
-* [quota shop](https://discord.gg/kjvT5ah)
+* [QuotaShop](https://discord.gg/kjvT5ah)
 
-* [Voxhost tinfoil server](https://tinfoil.voxhost.fr/discord)
+* [Voxhost Tinfoil Server](https://tinfoil.voxhost.fr/discord)
 
-* [jits](https://discord.gg/vGqsaD2)
+* [JITS](https://discord.gg/vGqsaD2)
 
 * [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
 
-* [teknik (website)](https://teknik.app)
+* [Teknik](https://teknik.app)
 
-* [pixelshop (website)](https://pixelshop.lol/)
+* [Pixelshop](https://pixelshop.lol/)
 
 
-Software developer
+### Software Developers
+___
 
 * [Blawar](https://github.com/blawar)
 
-* [Tinfoil official website (click here)](https://tinfoil.io)
+* [Tinfoil Official Website](https://tinfoil.io)
 
----------------------------------------------
+---
 
 
 

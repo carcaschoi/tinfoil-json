@@ -7,7 +7,7 @@ ___
 
 ```
 # Biscuit shop
-discord:
+discord: https://tinyurl.com/4shnr37u
 ```
 ```
 # HBGShop (Set to release December 2023) (thanks lurq)

@@ -4,6 +4,11 @@
 ___
 
 ## Shop Links
+
+```
+# Biscuit shop
+discord:
+```
 ```
 # HBGShop (Set to release December 2023) (thanks lurq)
 Protocol: https

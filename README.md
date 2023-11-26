@@ -4,7 +4,11 @@
 ___
 
 ## Shop Links
-
+```
+# Liberashop
+Protocol: https
+Host: liberashop.rs
+```
 ```
 # Biscuit shop
 discord: https://tinyurl.com/4shnr37u

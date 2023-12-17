@@ -18,19 +18,22 @@ ___
 Protocol: https
 Host: liberashop.rs
 ```
+
 ```
-# Biscuit shop
-discord: https://tinyurl.com/4shnr37u
+# Biscuit Shop
+Guilded: https://www.guilded.gg/i/EAvO1Bz2
 ```
+
 ```
-# HBGShop (Set to release December 2023) (thanks lurq)
+# HBGShop
 Protocol: https
 Host: wpapp.cc
 Title: HBGShop
 ```
+
 ```
 # Bikeborb's Shop
-discord: unknown
+Discord: unknown (PRs accepted.)
 ```
 
 ## Shops with other functions
@@ -61,7 +64,7 @@ Title: ESA
 
 ```
 # Teknik Shop
-* Get access key from their Discord (https://discord.com/invite/teknik)
+Get an access key from their Discord (https://discord.com/invite/teknik)
 ```
 
 ```
@@ -87,8 +90,9 @@ Protocol: https
 Host: pengu.us
 Title: Pengu Shop
 ```
+
 ```
-# QuotaShop (developer stopped maintenance [R.I.P] )
+# QuotaShop (developer stopped maintenance)
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
@@ -102,14 +106,14 @@ Title: ReDUMP Shop
 ```
 
 ```
-# Voxhost Tinfoil Server (cannot use)
+# Voxhost Tinfoil Server (can't use)
 Protocol: https
 Host: tinfoilhost.voxhost.fr
 Title: Voxhost Tinfoil Server
 ```
 
 ```
-# 雷禪商店 Rayzen Shop (cannot use)
+# 雷禪商店 Rayzen Shop (can't use)
 Protocol: https
 Host: tiny.cc
 Path: Rayzen-vip
@@ -131,6 +135,7 @@ Host: cdn.discordapp.com
 Path: attachments/531350560549634069/902073525370765352/Under.tfl
 Title: UnderPrivileged Shop
 ```
+
 ```
 # Nekoshop
 Protocol: https
@@ -144,6 +149,7 @@ Protocol: https
 Host: titz.cf
 Title: TITS
 ```
+
 ```
 # PixelShop (doesn't accept new members as of now) (down)
 * Get access key from their Discord (https://pixelshop.lol)
@@ -171,8 +177,6 @@ Title: A-Network Tinfoil Shop
 * Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) with [Sigpatches](https://github.com/ITotalJustice/patches/releases) recommended).
 
 * Relies on [Tinfoil](https://tinfoil.io).
-
-* You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
 
 * To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
@@ -240,7 +244,8 @@ Q: Network Error 7 occurs when I try to download.
 </br>
 
 
-### Legal Disclaimer 
+### Legal Disclaimer
+
 - The author does not take any responsibility for your actions using this service.
 
 - The author is NOT affiliated with the content that you can retrieve thanks to any Tinfoil shop.

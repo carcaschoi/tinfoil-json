@@ -1,30 +1,42 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=tinfoil-json)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&random=false&width=435&lines=tinfoil-json">
+<h3>This is a GitHub page storing the information of various Tinfoil shop links.</h3>
+</div>
 
-### Hello! This is a GitHub page storing the information of various Tinfoil shop links.
+</br>
+
+<div align="center">
+  <a href="https://github.com/carcaschoi/tinfoil-json/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/carcaschoi/tinfoil-json?style=for-the-badge"></a>
+  <a href="https://github.com/carcaschoi/tinfoil-json/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPLv3-purple?style=for-the-badge"></a>
+</div>
+
 ___
 
-## Shop Links
+## Shops
 ```
 # Liberashop
 Protocol: https
 Host: liberashop.rs
 ```
+
 ```
-# Biscuit shop
-discord: https://tinyurl.com/4shnr37u
+# Biscuit Shop
+Guilded: https://www.guilded.gg/i/EAvO1Bz2
 ```
+
 ```
-# HBGShop (Set to release December 2023) (thanks lurq)
+# HBGShop
 Protocol: https
 Host: wpapp.cc
 Title: HBGShop
 ```
+
 ```
 # Bikeborb's Shop
-discord: unknown
+Discord: unknown (PRs accepted.)
 ```
 
-## Backup of Shops with various Functions
+## Shops with other functions
 
 ```
 # JITS (works with your own GDrive if you follow https://games.jits.cc/account#instructions)
@@ -52,7 +64,7 @@ Title: ESA
 
 ```
 # Teknik Shop
-* Get access key from their Discord (https://discord.com/invite/teknik)
+Get an access key from their Discord (https://discord.com/invite/teknik)
 ```
 
 ```
@@ -78,8 +90,9 @@ Protocol: https
 Host: pengu.us
 Title: Pengu Shop
 ```
+
 ```
-# QuotaShop (developer stopped maintenance [R.I.P] )
+# QuotaShop (developer stopped maintenance)
 Protocol: https
 Host: quotanx.in
 Title: QuotaShop
@@ -93,14 +106,14 @@ Title: ReDUMP Shop
 ```
 
 ```
-# Voxhost Tinfoil Server (cannot use)
+# Voxhost Tinfoil Server (can't use)
 Protocol: https
 Host: tinfoilhost.voxhost.fr
 Title: Voxhost Tinfoil Server
 ```
 
 ```
-# 雷禪商店 Rayzen Shop (cannot use)
+# 雷禪商店 Rayzen Shop (can't use)
 Protocol: https
 Host: tiny.cc
 Path: Rayzen-vip
@@ -122,6 +135,7 @@ Host: cdn.discordapp.com
 Path: attachments/531350560549634069/902073525370765352/Under.tfl
 Title: UnderPrivileged Shop
 ```
+
 ```
 # Nekoshop
 Protocol: https
@@ -135,6 +149,7 @@ Protocol: https
 Host: titz.cf
 Title: TITS
 ```
+
 ```
 # PixelShop (doesn't accept new members as of now) (down)
 * Get access key from their Discord (https://pixelshop.lol)
@@ -163,8 +178,6 @@ Title: A-Network Tinfoil Shop
 
 * Relies on [Tinfoil](https://tinfoil.io).
 
-* You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
-
 * To avoid getting banned make sure you have already setup [Exosphere / DNS MITM](https://rentry.org/ExosphereDNSMITM).
 
 #### You have to set up OAuth if you cannot download  「something」  from Tinfoil.
@@ -186,8 +199,11 @@ Q: Network Error 7 occurs when I try to download.
 
 > A: It is most commonly a poor network connection. If you are using a LAN cable, try reinserting it.
 
+---
 
-## Credits
+# Credits
+
+## Shops
 
 * [Stealth Shop](https://discord.gg/EZMAupDvWE)
 
@@ -195,7 +211,7 @@ Q: Network Error 7 occurs when I try to download.
 
 * [Nekoshop](https://discord.gg/pytKu48eMk)
 
-* ReDUMP Shop (well... i don't know their website ot discord, welcome for pr)
+* ReDUMP Shop (Well... I don't know their website or Discord, welcome for PR)
 
 * [Pengu Shop](https://discord.gg/VAadvt9KFH)
 
@@ -205,27 +221,31 @@ Q: Network Error 7 occurs when I try to download.
 
 * [JITS](https://discord.gg/vGqsaD2)
 
-* [A-Network Tinfoil Shop (website)](https://a-network.ca/switch.php)
+* [A-Network Tinfoil Shop](https://a-network.ca/switch.php)
 
 * [Teknik](https://teknik.app)
 
 * [Pixelshop](https://pixelshop.lol/)
 
 
-### Software Developers
-___
+## Software Developers
 
 * [Blawar](https://github.com/blawar)
 
-* [Tinfoil Official Website](https://tinfoil.io)
 
----
+## ✨ Our Contributors
+
+<a href="https://github.com/carcaschoi/tinfoil-json/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=carcaschoi/tinfoil-json" />
+</a>
 
 
+</br>
+</br>
 
 
+### Legal Disclaimer
 
-## Legal Disclaimer 
 - The author does not take any responsibility for your actions using this service.
 
 - The author is NOT affiliated with the content that you can retrieve thanks to any Tinfoil shop.

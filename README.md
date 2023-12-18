@@ -70,7 +70,7 @@ Title: ESA
 ```
 
 ```
-# Kronos Zenten Shop (buy a monthly liscence from Kronos at https://discord.com/invite/kscctYj)
+# Kronos Zenten Shop (buy a monthly license from Kronos at https://discord.com/invite/kscctYj)
 Protocol: https
 Host: myrincon.es
 Path: net/Zenten

@@ -12,7 +12,7 @@
 
 ___
 
-## Shop
+## Shops
 
 ```
 # Liberashop

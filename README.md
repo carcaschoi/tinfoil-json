@@ -26,7 +26,7 @@ Guilded: https://www.guilded.gg/i/EAvO1Bz2
 ```
 
 ```
-# HBGShop
+# HBGShop (releasing December)
 Protocol: https
 Host: wpapp.cc
 Title: HBGShop

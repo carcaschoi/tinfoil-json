@@ -66,7 +66,12 @@ Title: ESA
 
 ```
 # Teknik Shop
-* Get an access key from their Discord (https://discord.com/invite/teknik)
+* Get an access key from their Guilded (https://www.guilded.gg/teknik)
+```
+
+```
+# POCODA Shop
+* Get an access key from their Discord (https://discord.gg/kkKmDNyZgc)
 ```
 
 ```

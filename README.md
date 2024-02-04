@@ -14,12 +14,6 @@ Host: liberashop.rs
 discord: https://tinyurl.com/4shnr37u
 ```
 ```
-# HBGShop (Set to release December 2023) (thanks lurq)
-Protocol: https
-Host: wpapp.cc
-Title: HBGShop
-```
-```
 # Bikeborb's Shop
 discord: unknown
 ```

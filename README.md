@@ -11,11 +11,7 @@ Host: liberashop.rs
 Title: Liberashop
 ```
 ```
-# Biscuit shop
-join their discord: https://tinyurl.com/4shnr37u
-```
-```
-# Ghost eShop (Available with over 10,000 games)
+# Ghost eShop (Available)
 join their discord: https://discord.com/servers/ghost-eshop-633965704424718336
 ```
 

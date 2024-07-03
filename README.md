@@ -12,7 +12,9 @@ Title: Liberashop
 ```
 ```
 # Ghost eShop (Available)
-join their discord: https://discord.com/servers/ghost-eshop-633965704424718336
+Protocol: https
+Host: nx.ghostland.at
+Title: Ghost eShop PUBLIC
 ```
 
 ## Backup of Shops with various Functions

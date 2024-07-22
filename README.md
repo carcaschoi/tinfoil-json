@@ -5,12 +5,6 @@ ___
 
 ## Shop Links
 ```
-# Liberashop
-Protocol: https
-Host: liberashop.rs
-Title: Liberashop
-```
-```
 # Ghost eShop (Available)
 Protocol: https
 Host: nx.ghostland.at
@@ -52,6 +46,12 @@ Title: Kronos Zenten Shop
 ```
 
 ## Backup of N/A Shops
+```
+# Liberashop (discontinued)
+Protocol: https
+Host: liberashop.rs
+Title: Liberashop
+```
 
 ```
 # Stealth Shop (RIP)

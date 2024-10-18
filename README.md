@@ -11,7 +11,7 @@ Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC
 ```
 ```
-# Ghost eShop RETRO (Shop for Retro roms)
+# Ghost eShop RETRO
 Protocol: https
 Host: nx-retro.ghostland.at
 Title: Ghost eShop RETRO

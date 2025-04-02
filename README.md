@@ -4,8 +4,17 @@
 ___
 
 ## Shop Links
+
 ```
-# Ghost eShop (Available)
+# Ultra NX (Available)
+Protocol: https
+Host: tinfoil.ultranx.ru
+Path:/tinfoil
+Title: Ultra NX
+```
+
+```
+# Ghost eShop (Under maintenance)
 Protocol: https
 Host: nx.ghostland.at
 Title: Ghost eShop PUBLIC

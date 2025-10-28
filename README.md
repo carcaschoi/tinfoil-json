@@ -60,6 +60,14 @@ Path: net/Zenten
 Title: Kronos Zenten Shop
 ```
 
+```
+# Magic Monkei (buy a licence from Magic Monkei at https://app.magicmonkei.com/en-US/)
+Protocol: https
+Host: magicmonkei.com
+Path: /tinfoil
+Title: Magic Monkei
+```
+
 ## Backup of N/A Shops
 ```
 # Liberashop (discontinued)
